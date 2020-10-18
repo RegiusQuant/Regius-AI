@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/regius/miniconda3/envs/regius/bin/python",
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "python.formatting.yapfArgs": ["--style", "{column_limit: 120}"],
+    "python.linting.flake8Args": ["--max-line-length=120"],
+    "python.linting.pylintEnabled": false 
+}
